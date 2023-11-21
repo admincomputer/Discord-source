@@ -1,0 +1,37 @@
+[admin.py:29] - 2023-11-21 03:32:30,954 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:559] - 2023-11-21 03:32:30,954 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-11-21 03:32:31,013 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\karina\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe', 'C:\\Users\\karina\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-11-21 03:32:31,013 - INFO - Running command 'C:\\Users\\karina\\AppData\\Local\\Programs\\Python\\Python312\\pythonw.exe' - 'C:\\Users\\karina\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-11-21 03:32:33,732 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,967 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,968 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,968 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,969 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,969 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,969 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,970 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,970 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,971 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,973 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,973 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,973 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,973 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,973 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,974 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,974 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,974 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,975 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,975 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,975 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,976 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,976 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,976 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-11-21 03:32:33,976 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:420] - 2023-11-21 03:32:56,629 - INFO - Retrieved filename: Builder
+[builder.pyw:386] - 2023-11-21 03:32:56,630 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2023-11-21 03:32:56,634 - INFO - Successfully changed config
+[builder.pyw:522] - 2023-11-21 03:32:57,253 - INFO - Successfully obfuscated file: Builder.py
+[builder.pyw:420] - 2023-11-21 03:33:33,034 - INFO - Retrieved filename: Builder
+[builder.pyw:386] - 2023-11-21 03:33:33,034 - INFO - Changed filetype: .py
+[builder.pyw:440] - 2023-11-21 03:33:33,036 - INFO - Successfully changed config
+[builder.pyw:522] - 2023-11-21 03:33:33,622 - INFO - Successfully obfuscated file: Builder.py
